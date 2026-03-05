@@ -1,0 +1,23 @@
+# Entorno virtual
+venv/
+__pycache__/
+*.pyc
+
+# Dataset
+data/
+
+# Outputs
+outputs/models/
+outputs/figures/
+outputs/metrics/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# PyTorch
+*.pt
+*.pth

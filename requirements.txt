@@ -1,0 +1,27 @@
+# Core Deep Learning
+torch>=2.1.0
+torchvision>=0.16.0
+torchaudio>=2.1.0
+
+# Scientific Computing
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# Machine Learning utilities
+scikit-learn>=1.3
+
+# Computer Vision
+opencv-python>=4.8
+Pillow>=10.0
+
+# Progress bars
+tqdm>=4.66
+
+# Notebook
+jupyter>=1.0
+ipykernel>=6.0
