@@ -25,3 +25,6 @@ tqdm>=4.66
 # Notebook
 jupyter>=1.0
 ipykernel>=6.0
+
+# Kaggle
+kagglehub>=0.1.0
